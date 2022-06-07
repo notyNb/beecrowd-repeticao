@@ -1,1 +1,3 @@
-# beecrowd-repeti-o
+# beecrowd-repeticao
+Exercícios beecrowd
+
